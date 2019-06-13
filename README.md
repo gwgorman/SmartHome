@@ -2,7 +2,7 @@
 I have been creating a smart home slowly, adding bits and pieces from various manufacturers along the way. As I do, I'm integrating into a home Dashboard and extra automation to help me manage the house. 
 
 This is the overall architecture: 
-<img src="">
+![Architecture Diagram](https://github.com/gwgorman/SmartHome/blob/master/GGHouse.png)
 
 # Major functions: 
 - Show MQTT Server Status
